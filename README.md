@@ -35,7 +35,7 @@ Uma aplicação simples e funcional desenvolvida em C# com Windows Forms para mo
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    git clone [https://github.com/RomildoC/COMTester.git](https://github.com/RomildoC/COMTester.git)
     ```
 
 2.  **Abra o projeto:**
